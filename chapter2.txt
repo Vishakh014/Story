@@ -1,1 +1,1 @@
-Hello, Today we are going to study about how to use the git and version control
+Hello, Today we are going to Earth to learn about how to use the git and version control
